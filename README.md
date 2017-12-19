@@ -1,7 +1,5 @@
 # 江愷笙 <span style="color:black">(106062568)</span>
 
-Here is the [github page]() of my report.
-
 # Homework4 report
 
 ## Overview
